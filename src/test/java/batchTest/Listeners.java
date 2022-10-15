@@ -24,5 +24,8 @@ public class Listeners implements ITestListener {
 		System.out.println("*****onTestFinish "+context.getName());
 	}
 	
+	public void onBoard() {
+		
+	}
 
 }
